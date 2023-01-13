@@ -1,0 +1,100 @@
+﻿Broad Category,Primary Function,Further Breakdown,Source EUI
+banking/financial services,bank branch,,209.9
+banking/financial services,financial office,,116.4
+education,adult education,,110.4
+education,college/university,,180.6
+education,k-12 school,,104.4
+education,pre-school/daycare,,131.5
+education,vocational school,,110.4
+education,other - education,,110.4
+entertainment/public assembly,convention center,,109.6
+entertainment/public assembly,movie theater,,112
+entertainment/public assembly,museum,,112
+entertainment/public assembly,performing arts,,112
+entertainment/public assembly,recreation,bowling alley,112
+entertainment/public assembly,recreation,fitness center/health club/gym,112
+entertainment/public assembly,recreation,ice/curling rink,112
+entertainment/public assembly,recreation,roller rink,112
+entertainment/public assembly,recreation,swimming pool,112
+entertainment/public assembly,recreation,other- recreation,112
+entertainment/public assembly,social/meeting hall,,109.6
+entertainment/public assembly,stadium,indoor arena,112
+entertainment/public assembly,stadium,race track,112
+entertainment/public assembly,stadium,stadium (closed),112
+entertainment/public assembly,stadium,stadium (open),112
+entertainment/public assembly,other,aquarium,112
+entertainment/public assembly,other,casino,112
+entertainment/public assembly,other,zoo,112
+entertainment/public assembly,other,other- entertainment/public assembly,112
+entertainment/public assembly,other,bar/nightclub,297
+food sales and service,convenience store,convenience store with gas station,592.6
+food sales and service,convenience store,convenience store without gas station,592.6
+food sales and service,restaurant/bar,bar/nightclub,297
+food sales and service,restaurant/bar,fast food restaurant,886.4
+food sales and service,restaurant/bar,restaurant,573.7
+food sales and service,restaurant/bar,other- restaurant/bar,573.7
+food sales and service,supermarket/grocery store,,444
+food sales and service,wholesale club/supercenter,,120
+food sales and service,other,food sales,592.6
+food sales and service,other,food service,527.7
+healthcare,ambulatory surgical center,,138.3
+healthcare,hospital,hospital (general medical & surgical),426.9
+healthcare,hospital,other/specialty hospital,433.9
+healthcare,medical office,,121.7
+healthcare,outpatient rehabilitation/physical therapy,,138.3
+healthcare,residential care facility,,213.2
+healthcare,senior care community,,213.2
+healthcare,urgent care/clinic/other outpatient,,145.8
+lodging/residential,barracks,,107.5
+lodging/residential,hotel,,146.7
+lodging/residential,multifamily housing,,118.1
+lodging/residential,prison/incarceration,,156.4
+lodging/residential,residence hall/dormitory,,107.5
+lodging/residential,residential care facility,,213.2
+lodging/residential,senior care community,,213.2
+lodging/residential,single family home,,n/a
+lodging/residential,other- lodging/residential,,143.6
+manufacturing/industrial,manufacturing/industrial plan,,n/a
+mixed use,mixed use property,,89.3
+office,medical office,,121.7
+office,office,,116.4
+office,veterinary office,,145.8
+parking,parking,,n/a
+public services,courthouse,,211.4
+public services,drinking water treatment and distribution,,5.9
+public services,fire station,,124.9
+public services,library,,143.6
+public services,mailing center/post office,,96.9
+public services,police station,,124.9
+public services,prison/incarceration,,156.4
+public services,social/meeting hall,,109.6
+public services,transportation terminal/station,,112
+public services,wastewater treatment plant,,7.51
+public services,other- public services,,89.3
+religious worship,worship facility,,58.4
+retail,automobile dealership,,124.1
+retail,convenience store,convenience store with gas station,592.6
+retail,convenience store,convenience store without gas station,592.6
+retail,mall,enclosed mall,170.7
+retail,mall,lifestyle center,228.8
+retail,mall,strip mall,228.8
+retail,mall,other- mall,
+retail,retail store,,120
+retail,supermarket/grocery store,,444
+retail,wholesale club/supercenter,,120
+technology/science,data center,,1.82
+technology/science,laboratory,,318.2
+technology/science,other- technology/science,,89.3
+services,data center,,1.82
+services,"personal services (health/beauty, dry cleaning, etc.)",,96.9
+services,"repair services (vehicle, shoe, locksmith, etc.)",,96.9
+services,other- services,,96.9
+utility,drinking water treatment and distribution,,5.9
+utility,energy/power station,,89.3
+utility,wastewater treatment plant,,7.51
+utility,other- utility,,89.3
+warehouse/storage,self-storage facility,,47.8
+warehouse/storage,warehouse/distribution center,distribution center,52.9
+warehouse/storage,warehouse/distribution center,non-refrigerated warehouse,52.9
+warehouse/storage,warehouse/distribution center,refrigerated warehouse,235.6
+other,other,,89.3
