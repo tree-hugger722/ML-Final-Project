@@ -21,4 +21,4 @@ For this project, I train an Artificial Neural Network (ANN) with a baseline Log
   
 3. Create a directory within this repository on your local machine titled "building_genome_datasets/" with the command `mkdir building_genome_datasets/` and move the CSVs into this directory.
 
-4. Install Jupyter Notbook with the command `pip install notebook` or `pip3 install notebook`. Then run the notebook with the command `jupyter notebook`.
+4. Install Jupyter Notbook with the command `pip install notebook` or `pip3 install notebook`. Then run the notebook from inside the repository with the command `jupyter notebook`.
